@@ -490,8 +490,8 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "",
+      "step": "kicad_bruhlice.step",
+      "svg": "/home/js/projects/cases/lobotomy/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
