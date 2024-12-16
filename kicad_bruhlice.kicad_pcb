@@ -1564,7 +1564,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.134806 7.853572)
+			(mid 15.134799 7.853536)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -1575,7 +1575,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133566 -5.853538)
+			(mid 15.133602 -5.853544)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -1586,7 +1586,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677729 7.853537)
+			(mid 8.677693 7.853544)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -1694,6 +1694,17 @@
 				"4f74a73b-cbf3-4203-9013-e2f6238d2701" "a4b1f512-fec8-442c-b2cd-c4a41f83b1c6"
 				"bc44dc88-c82c-41c5-b208-bf93a11460e6" "c48d53e4-7e6d-4702-8330-2a3a0eec4820"
 				"c89905fd-bf05-49e3-a1f9-0c19df4f7b2c" "dafcce64-0e4e-421f-b28e-533c5130f9db"
+			)
+		)
+		(model "/home/js/projects/kicad_lib/pcm_3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -2195,7 +2206,7 @@
 		)
 		(fp_arc
 			(start 14.780039 -5.999999)
-			(mid 15.133567 -5.853539)
+			(mid 15.133602 -5.853545)
 			(end 15.280039 -5.499999)
 			(stroke
 				(width 0.05)
@@ -2206,7 +2217,7 @@
 		)
 		(fp_arc
 			(start 15.28125 7.500001)
-			(mid 15.134806 7.853572)
+			(mid 15.1348 7.853535)
 			(end 14.78125 8.000001)
 			(stroke
 				(width 0.05)
@@ -2228,7 +2239,7 @@
 		)
 		(fp_arc
 			(start 9.03125 8.000001)
-			(mid 8.677728 7.853536)
+			(mid 8.677693 7.853542)
 			(end 8.53125 7.500001)
 			(stroke
 				(width 0.05)
@@ -2325,6 +2336,17 @@
 				"0d2913b4-6d19-4a03-b076-4dfe933a551c" "38b1ec05-df6f-4eba-aeac-53b476407edf"
 				"3b83d02f-7e73-42cd-9c4f-b98fd3c41321" "6c7fee0e-f1d4-4dad-a28e-9ebc5d25d3c7"
 				"d0d610a6-5728-41d0-b5ba-2402c185f93e" "fc491b7f-c8a7-4858-937b-501ee504e3cb"
+			)
+		)
+		(model "/home/js/projects/kicad_lib/pcm_3rdparty/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/Stabilizer_Cherry_MX_2.00u.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
