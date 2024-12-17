@@ -4,5 +4,5 @@
 An unholy mixture of Alice and Bruce, have fun with this one y'all!
 
 ## Images
-![top](quintuple-lained.github.io/lobotomy/top.png)
-![bottom](quintuple-lained.github.io/lobotomy/bottom.png)
+![switch side](quintuple-lained.github.io/lobotomy/top.png)
+![component side](quintuple-lained.github.io/lobotomy/bottom.png)
